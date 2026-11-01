@@ -1,0 +1,7 @@
+date,tool_slug,tool_name,kind,tier,from,to,source_url
+2026-10-12,taskade,Taskade,limit-change,Free,"Up to 3 apps and 6,000 one-time credits",Up to 3 apps,https://www.taskade.com/pricing
+2026-09-30,invideo,Invideo,plan-removed,Elite,900/month,,https://invideo.io/pricing/
+2026-09-30,invideo,Invideo,plan-removed,Generative,170/month,,https://invideo.io/pricing/
+2026-09-21,nouswise,Nouswise,limit-change,Starter,Up to 25 Files in Focus,Up to 50 Files in Focus,https://nouswise.com
+2026-08-10,lindy,Lindy,price-change,Plus,49.99/month,29.99/month,https://www.lindy.ai/pricing
+2026-07-27,bolt-new,Bolt.new,limit-change,Free,1M tokens per month,300K tokens daily limit,https://bolt.new/pricing

@@ -1,0 +1,393 @@
+tool_slug,tool_name,category,tier,price_usd,period,is_free_plan,is_trial,limit,note,verified_on,pricing_page,listing_url
+activepieces,Activepieces,Automation,Free,0,month,true,false,,,2026-10-19,https://www.activepieces.com/pricing,https://dailyaitools.ai/tools/activepieces/
+activepieces,Activepieces,Automation,Plus,20,month,false,false,Up to 5 users,billed yearly,2026-10-19,https://www.activepieces.com/pricing,https://dailyaitools.ai/tools/activepieces/
+activepieces,Activepieces,Automation,Team,200,month,false,false,25 users included,billed yearly,2026-10-19,https://www.activepieces.com/pricing,https://dailyaitools.ai/tools/activepieces/
+activepieces,Activepieces,Automation,Ultimate,,other,false,false,,,2026-10-19,https://www.activepieces.com/pricing,https://dailyaitools.ai/tools/activepieces/
+akiflow,Akiflow,Productivity,Pro Yearly,19,month,false,false,,billed yearly,2026-10-26,https://akiflow.com/pricing,https://dailyaitools.ai/tools/akiflow/
+akiflow,Akiflow,Productivity,Pro,34,month,false,false,,billed monthly,2026-10-26,https://akiflow.com/pricing,https://dailyaitools.ai/tools/akiflow/
+akiflow,Akiflow,Productivity,Pro Monthly,34,month,false,false,,billed monthly,2026-10-26,https://akiflow.com/pricing,https://dailyaitools.ai/tools/akiflow/
+amplemarket,Amplemarket,Agents,Startup,600,month,false,false,2 users included,annual term,2026-10-26,https://www.amplemarket.com/pricing,https://dailyaitools.ai/tools/amplemarket/
+amplemarket,Amplemarket,Agents,Growth,,other,false,false,4 users included,,2026-10-26,https://www.amplemarket.com/pricing,https://dailyaitools.ai/tools/amplemarket/
+amplemarket,Amplemarket,Agents,Elite,,other,false,false,10 users included,,2026-10-26,https://www.amplemarket.com/pricing,https://dailyaitools.ai/tools/amplemarket/
+apify,Apify,Automation,Free,0,month,true,false,,,2026-10-19,https://apify.com/pricing,https://dailyaitools.ai/tools/apify/
+apify,Apify,Automation,Starter,19,month,false,false,,,2026-10-19,https://apify.com/pricing,https://dailyaitools.ai/tools/apify/
+apify,Apify,Automation,Scale,199,month,false,false,,,2026-10-19,https://apify.com/pricing,https://dailyaitools.ai/tools/apify/
+apify,Apify,Automation,Business,999,month,false,false,,,2026-10-19,https://apify.com/pricing,https://dailyaitools.ai/tools/apify/
+apify,Apify,Automation,Enterprise,,month,false,false,,,2026-10-19,https://apify.com/pricing,https://dailyaitools.ai/tools/apify/
+avoma,Avoma,Productivity,Free view-only,0,month,true,false,,Always free for viewers and collaborators,2026-10-08,https://www.avoma.com/pricing,https://dailyaitools.ai/tools/avoma/
+avoma,Avoma,Productivity,Startup,19,month,false,false,Up to 25 Paid Seats,"Per recorder seat, billed annually",2026-10-08,https://www.avoma.com/pricing,https://dailyaitools.ai/tools/avoma/
+avoma,Avoma,Productivity,Organization,29,month,false,false,Up to 100 Paid Seats,"Per recorder seat, billed annually",2026-10-08,https://www.avoma.com/pricing,https://dailyaitools.ai/tools/avoma/
+avoma,Avoma,Productivity,Enterprise,39,month,false,false,Minimum 10 Paid Seats,"Per recorder seat, billed annually",2026-10-08,https://www.avoma.com/pricing,https://dailyaitools.ai/tools/avoma/
+base44,Base44,Code,Start for free,0,month,true,false,,,2026-10-26,https://base44.com,https://dailyaitools.ai/tools/base44/
+base44,Base44,Code,Paid plans,16,month,false,false,,Billed annually,2026-10-26,https://base44.com,https://dailyaitools.ai/tools/base44/
+base44,Base44,Code,Paid,16,month,false,false,,billed annually,2026-10-26,https://base44.com,https://dailyaitools.ai/tools/base44/
+base44,Base44,Code,Enterprise,,other,false,false,,Contact sales,2026-10-26,https://base44.com,https://dailyaitools.ai/tools/base44/
+base44,Base44,Code,Builder,,month,false,false,,from $16/mo billed annually,2026-10-26,https://base44.com,https://dailyaitools.ai/tools/base44/
+beautiful-ai,Beautiful.ai,Productivity,Teams,50,month,false,false,,$40/mo per user billed annually (2 to 20 seats),2026-10-12,https://www.beautiful.ai/pricing,https://dailyaitools.ai/tools/beautiful-ai/
+beautiful-ai,Beautiful.ai,Productivity,Pro,45,month,false,false,,$14.50 per month billed annually,2026-10-12,https://www.beautiful.ai/pricing,https://dailyaitools.ai/tools/beautiful-ai/
+beautiful-ai,Beautiful.ai,Productivity,Team,50,month,false,false,,$40/mo per user billed annually,2026-10-12,https://www.beautiful.ai/pricing,https://dailyaitools.ai/tools/beautiful-ai/
+beautiful-ai,Beautiful.ai,Productivity,Enterprise,,month,false,false,,Contact sales for pricing,2026-10-12,https://www.beautiful.ai/pricing,https://dailyaitools.ai/tools/beautiful-ai/
+bland,Bland,Agents,Start,0.14,usage,false,false,100 calls/day,"$0 platform fee, includes 2 credits and an inbound number",2026-10-13,https://www.bland.ai/pricing,https://dailyaitools.ai/tools/bland/
+bland,Bland,Agents,Build,299,month,false,false,"2,000 calls/day",$0.12/min talk time rate,2026-10-13,https://www.bland.ai/pricing,https://dailyaitools.ai/tools/bland/
+bland,Bland,Agents,Enterprise,,other,false,false,,Custom pricing contracted to volume,2026-10-13,https://www.bland.ai/pricing,https://dailyaitools.ai/tools/bland/
+botpress,Botpress,Agents,Free,0,month,true,false,100 conversations,,2026-10-17,https://botpress.com/pricing,https://dailyaitools.ai/tools/botpress/
+botpress,Botpress,Agents,Plus,150,month,false,false,250 conversations/mo included,billed annually,2026-10-17,https://botpress.com/pricing,https://dailyaitools.ai/tools/botpress/
+botpress,Botpress,Agents,Team,750,month,false,false,"1,500 conversations/mo included",billed annually,2026-10-17,https://botpress.com/pricing,https://dailyaitools.ai/tools/botpress/
+botpress,Botpress,Agents,Enterprise,,month,false,false,,Custom pricing,2026-10-17,https://botpress.com/pricing,https://dailyaitools.ai/tools/botpress/
+browseract,BrowserAct,Automation,Free Trial,0,month,false,true,"2,000 Free Credits on signup",,2026-10-19,https://www.browseract.com/pricing,https://dailyaitools.ai/tools/browseract/
+browseract,BrowserAct,Automation,Basic,16,month,false,false,"10,000 Credits / month",$13 / month annually ($156 / year),2026-10-19,https://www.browseract.com/pricing,https://dailyaitools.ai/tools/browseract/
+browseract,BrowserAct,Automation,Essential,70,month,false,false,"50,000 Credits / month",$56 / month annually ($672 / year),2026-10-19,https://www.browseract.com/pricing,https://dailyaitools.ai/tools/browseract/
+browseract,BrowserAct,Automation,Advanced,120,month,false,false,"100,000 Credits / month","$96 / month annually ($1,152 / year)",2026-10-19,https://www.browseract.com/pricing,https://dailyaitools.ai/tools/browseract/
+cal-com,Cal.com,Productivity,Free,0,month,true,false,,,2026-10-26,https://cal.com/pricing,https://dailyaitools.ai/tools/cal-com/
+cal-com,Cal.com,Productivity,Teams,16,month,false,false,,billed annually,2026-10-26,https://cal.com/pricing,https://dailyaitools.ai/tools/cal-com/
+cal-com,Cal.com,Productivity,Organizations,37,month,false,false,,billed annually,2026-10-26,https://cal.com/pricing,https://dailyaitools.ai/tools/cal-com/
+cal-com,Cal.com,Productivity,Enterprise,,year,false,false,,,2026-10-26,https://cal.com/pricing,https://dailyaitools.ai/tools/cal-com/
+capcut,CapCut,Video,Free,0,other,true,false,,"No credit card required, no watermark for many features",2026-10-12,https://www.capcut.com/resource/capcut-standard-vs-pro,https://dailyaitools.ai/tools/capcut/
+capcut,CapCut,Video,Pro,19.99,month,false,false,,Yearly plan: $179.99 per year,2026-10-12,https://www.capcut.com/resource/capcut-standard-vs-pro,https://dailyaitools.ai/tools/capcut/
+capcut,CapCut,Video,Team,24.99,month,false,false,,starts at around,2026-10-12,https://www.capcut.com/resource/capcut-standard-vs-pro,https://dailyaitools.ai/tools/capcut/
+cartesia,Cartesia,Audio,Free,0,month,true,false,20K credits / month,,2026-10-26,https://www.cartesia.ai/pricing,https://dailyaitools.ai/tools/cartesia/
+cartesia,Cartesia,Audio,Pro,5,month,false,false,100K credits / month,,2026-10-26,https://www.cartesia.ai/pricing,https://dailyaitools.ai/tools/cartesia/
+cartesia,Cartesia,Audio,Startup,49,month,false,false,1.25M credits / month,,2026-10-26,https://www.cartesia.ai/pricing,https://dailyaitools.ai/tools/cartesia/
+cartesia,Cartesia,Audio,Scale,299,month,false,false,8M credits / month,,2026-10-26,https://www.cartesia.ai/pricing,https://dailyaitools.ai/tools/cartesia/
+cartesia,Cartesia,Audio,Enterprise,,month,false,false,,Custom pricing,2026-10-26,https://www.cartesia.ai/pricing,https://dailyaitools.ai/tools/cartesia/
+cassidy,Cassidy,Agents,Starter Plan,0,month,true,false,3 Seats,,2026-10-20,https://www.cassidyai.com/pricing,https://dailyaitools.ai/tools/cassidy/
+cassidy,Cassidy,Agents,Business Plan,,month,false,false,,,2026-10-20,https://www.cassidyai.com/pricing,https://dailyaitools.ai/tools/cassidy/
+castmagic,Castmagic,Audio,Hobby,19,month,false,false,30 hrs,billed annually ($239/yr),2026-10-12,https://www.castmagic.io/pricing,https://dailyaitools.ai/tools/castmagic/
+castmagic,Castmagic,Audio,Starter,48,month,false,false,100 hrs,billed annually ($579/yr),2026-10-12,https://www.castmagic.io/pricing,https://dailyaitools.ai/tools/castmagic/
+castmagic,Castmagic,Audio,Team,139,month,false,false,400 hrs,"billed annually ($1,669/yr)",2026-10-12,https://www.castmagic.io/pricing,https://dailyaitools.ai/tools/castmagic/
+castmagic,Castmagic,Audio,Business & Scale,699,month,false,false,,From $699/mo,2026-10-12,https://www.castmagic.io/pricing,https://dailyaitools.ai/tools/castmagic/
+chatbase,Chatbase,Agents,Free,0,month,true,false,,,2026-10-14,https://www.chatbase.co/pricing,https://dailyaitools.ai/tools/chatbase/
+chatbase,Chatbase,Agents,Hobby,40,month,false,false,700 message credits/month,,2026-10-14,https://www.chatbase.co/pricing,https://dailyaitools.ai/tools/chatbase/
+chatbase,Chatbase,Agents,Standard,150,month,false,false,"4,000 message credits/month",,2026-10-14,https://www.chatbase.co/pricing,https://dailyaitools.ai/tools/chatbase/
+chatbase,Chatbase,Agents,Pro,500,month,false,false,"15,000 message credits/month",,2026-10-14,https://www.chatbase.co/pricing,https://dailyaitools.ai/tools/chatbase/
+chatbase,Chatbase,Agents,Enterprise,,month,false,false,,,2026-10-14,https://www.chatbase.co/pricing,https://dailyaitools.ai/tools/chatbase/
+circleback,Circleback,Productivity,Free,0,month,true,false,,,2026-10-09,https://circleback.ai,https://dailyaitools.ai/tools/circleback/
+clipchamp,Clipchamp,Video,Free,0,month,true,false,Up to 1080p HD video resolution,,2026-10-19,https://clipchamp.com/en/pricing/,https://dailyaitools.ai/tools/clipchamp/
+clipchamp,Clipchamp,Video,Premium,,month,false,false,Up to 4K UHD video resolution,Included with Microsoft 365 Personal or Family subscription,2026-10-19,https://clipchamp.com/en/pricing/,https://dailyaitools.ai/tools/clipchamp/
+colossyan,Colossyan,Video,Starter,27,month,false,false,,,2026-10-26,https://www.colossyan.com/pricing/,https://dailyaitools.ai/tools/colossyan/
+colossyan,Colossyan,Video,Professional,59,month,false,false,,Yearly-34%,2026-10-26,https://www.colossyan.com/pricing/,https://dailyaitools.ai/tools/colossyan/
+colossyan,Colossyan,Video,Enterprise,,month,false,false,,,2026-10-26,https://www.colossyan.com/pricing/,https://dailyaitools.ai/tools/colossyan/
+consensus,Consensus,Search,Free,0,month,true,false,,,2026-10-12,https://consensus.app,https://dailyaitools.ai/tools/consensus/
+consensus,Consensus,Search,Pro,,month,false,false,,,2026-10-12,https://consensus.app,https://dailyaitools.ai/tools/consensus/
+consensus,Consensus,Search,Team,,month,false,false,,,2026-10-12,https://consensus.app,https://dailyaitools.ai/tools/consensus/
+consensus,Consensus,Search,Enterprise,,month,false,false,,,2026-10-12,https://consensus.app,https://dailyaitools.ai/tools/consensus/
+deepgram,Deepgram,Audio,Free,0,usage,true,false,$200 Credit then pay-as-you-go,,2026-10-12,https://deepgram.com/pricing,https://dailyaitools.ai/tools/deepgram/
+deepgram,Deepgram,Audio,Pay As You Go,200,usage,false,false,,"Free $200 Credit, then pay-as-you-go",2026-10-12,https://deepgram.com/pricing,https://dailyaitools.ai/tools/deepgram/
+deepgram,Deepgram,Audio,Growth,,usage,false,false,,Save up to 20% With pre-paid credits for the year,2026-10-12,https://deepgram.com/pricing,https://dailyaitools.ai/tools/deepgram/
+deepgram,Deepgram,Audio,Enterprise,,other,false,false,"For businesses with large volumes, data or deployment requirements, or support","Volume commitments, custom models, dedicated or self-hosted deployment, and SLAs, contact sales",2026-10-12,https://deepgram.com/pricing,https://dailyaitools.ai/tools/deepgram/
+deepl,DeepL,Writing,Free,0,month,true,false,,,2026-10-12,https://www.deepl.com/en/pro,https://dailyaitools.ai/tools/deepl/
+deepl,DeepL,Writing,Team,24.99,month,false,false,"1,000,000 characters per user/month","per user/month, billed annually",2026-10-12,https://www.deepl.com/en/pro,https://dailyaitools.ai/tools/deepl/
+deepl,DeepL,Writing,Business,49.99,month,false,false,,"per user/month, billed annually",2026-10-12,https://www.deepl.com/en/pro,https://dailyaitools.ai/tools/deepl/
+deepl,DeepL,Writing,Enterprise,,month,false,false,,,2026-10-12,https://www.deepl.com/en/pro,https://dailyaitools.ai/tools/deepl/
+descript,Descript,Video,Free,0,month,true,false,60 minutes per month,,2026-10-12,https://www.descript.com/pricing,https://dailyaitools.ai/tools/descript/
+descript,Descript,Video,Hobbyist,24,month,false,false,10 media hours per month,$16 per month billed annually,2026-10-12,https://www.descript.com/pricing,https://dailyaitools.ai/tools/descript/
+descript,Descript,Video,Creator,35,month,false,false,30 media hours per month,$24 per month billed annually,2026-10-12,https://www.descript.com/pricing,https://dailyaitools.ai/tools/descript/
+descript,Descript,Video,Business,65,month,false,false,40 media hours per month,$50 per month billed annually,2026-10-12,https://www.descript.com/pricing,https://dailyaitools.ai/tools/descript/
+descript,Descript,Video,Enterprise,,month,false,false,,,2026-10-12,https://www.descript.com/pricing,https://dailyaitools.ai/tools/descript/
+dust,Dust,Agents,Free,0,one-time,true,false,500 credits lifetime,,2026-10-19,https://dust.tt/home/pricing,https://dailyaitools.ai/tools/dust/
+dust,Dust,Agents,Pro,30,month,false,false,"8,000 credits a month",$24 per seat/month billed annually,2026-10-19,https://dust.tt/home/pricing,https://dailyaitools.ai/tools/dust/
+dust,Dust,Agents,Max,150,month,false,false,"40,000 credits a month",$120 per seat/month billed annually,2026-10-19,https://dust.tt/home/pricing,https://dailyaitools.ai/tools/dust/
+dust,Dust,Agents,Enterprise,,month,false,false,,,2026-10-19,https://dust.tt/home/pricing,https://dailyaitools.ai/tools/dust/
+elevenlabs,ElevenLabs,Audio,Free,0,month,true,false,10k credits per month,,2026-10-19,https://elevenlabs.io/pricing,https://dailyaitools.ai/tools/elevenlabs/
+elevenlabs,ElevenLabs,Audio,Starter,6,month,false,false,30k credits per month,,2026-10-19,https://elevenlabs.io/pricing,https://dailyaitools.ai/tools/elevenlabs/
+elevenlabs,ElevenLabs,Audio,Creator,22,month,false,false,121k credits per month,First month 50% off,2026-10-19,https://elevenlabs.io/pricing,https://dailyaitools.ai/tools/elevenlabs/
+elevenlabs,ElevenLabs,Audio,Pro,99,month,false,false,600k credits per month,,2026-10-19,https://elevenlabs.io/pricing,https://dailyaitools.ai/tools/elevenlabs/
+elevenlabs,ElevenLabs,Audio,Scale,299,month,false,false,1.8M credits per month,,2026-10-19,https://elevenlabs.io/pricing,https://dailyaitools.ai/tools/elevenlabs/
+elevenlabs,ElevenLabs,Audio,Business,990,month,false,false,6M credits per month,,2026-10-19,https://elevenlabs.io/pricing,https://dailyaitools.ai/tools/elevenlabs/
+emergent,Emergent,Code,Free,0,month,true,false,10 free monthly credits,,2026-10-12,https://emergent.sh/pricing,https://dailyaitools.ai/tools/emergent/
+emergent,Emergent,Code,Standard,20,month,false,false,,$17 per month billed annually,2026-10-12,https://emergent.sh/pricing,https://dailyaitools.ai/tools/emergent/
+emergent,Emergent,Code,Pro,200,month,false,false,,$167 per month billed annually,2026-10-12,https://emergent.sh/pricing,https://dailyaitools.ai/tools/emergent/
+fathom,Fathom,Audio,Free,0,month,true,false,,,2026-10-19,https://www.fathom.ai/pricing,https://dailyaitools.ai/tools/fathom/
+fathom,Fathom,Audio,Team,15,month,false,false,,"per user, 2 user minimum",2026-10-19,https://www.fathom.ai/pricing,https://dailyaitools.ai/tools/fathom/
+fathom,Fathom,Audio,Premium,16,month,false,false,,per user,2026-10-19,https://www.fathom.ai/pricing,https://dailyaitools.ai/tools/fathom/
+fathom,Fathom,Audio,Business,25,month,false,false,,"per user, 2 user minimum",2026-10-19,https://www.fathom.ai/pricing,https://dailyaitools.ai/tools/fathom/
+fathom,Fathom,Audio,Enterprise,,month,false,false,,,2026-10-19,https://www.fathom.ai/pricing,https://dailyaitools.ai/tools/fathom/
+fellow,Fellow,Productivity,Free,0,month,true,false,,billed annually,2026-10-29,https://fellow.ai/pricing,https://dailyaitools.ai/tools/fellow/
+fellow,Fellow,Productivity,Team,11,month,false,false,,billed monthly,2026-10-29,https://fellow.ai/pricing,https://dailyaitools.ai/tools/fellow/
+fellow,Fellow,Productivity,Business,23,month,false,false,,billed monthly,2026-10-29,https://fellow.ai/pricing,https://dailyaitools.ai/tools/fellow/
+fellow,Fellow,Productivity,Enterprise,,month,false,false,,Contact sales,2026-10-29,https://fellow.ai/pricing,https://dailyaitools.ai/tools/fellow/
+firecrawl,Firecrawl,Automation,Free Plan,0,month,true,false,"1,000 credits / month",,2026-10-19,https://www.firecrawl.dev/pricing,https://dailyaitools.ai/tools/firecrawl/
+firecrawl,Firecrawl,Automation,Free,0,month,false,false,"1,000 credits / month",,2026-10-19,https://www.firecrawl.dev/pricing,https://dailyaitools.ai/tools/firecrawl/
+firecrawl,Firecrawl,Automation,Hobby,19,month,false,false,"5,000 credits / month",$16/month billed annually,2026-10-19,https://www.firecrawl.dev/pricing,https://dailyaitools.ai/tools/firecrawl/
+firecrawl,Firecrawl,Automation,Standard,99,month,false,false,"100,000 credits / month",$83/month billed yearly,2026-10-19,https://www.firecrawl.dev/pricing,https://dailyaitools.ai/tools/firecrawl/
+firecrawl,Firecrawl,Automation,Growth,399,month,false,false,"500,000 credits / month",$333/month billed annually,2026-10-19,https://www.firecrawl.dev/pricing,https://dailyaitools.ai/tools/firecrawl/
+firecrawl,Firecrawl,Automation,Scale,599,month,false,false,"1,000,000 credits / month",Billed yearly,2026-10-19,https://www.firecrawl.dev/pricing,https://dailyaitools.ai/tools/firecrawl/
+firecrawl,Firecrawl,Automation,Enterprise,,month,false,false,,"Custom credits, dedicated support & SLA",2026-10-19,https://www.firecrawl.dev/pricing,https://dailyaitools.ai/tools/firecrawl/
+gamma,Gamma,Productivity,Free,0,month,true,false,,free tier option,2026-10-19,https://gamma.app,https://dailyaitools.ai/tools/gamma/
+gamma,Gamma,Productivity,Plus,,month,false,false,,,2026-10-19,https://gamma.app,https://dailyaitools.ai/tools/gamma/
+gamma,Gamma,Productivity,Pro,,month,false,false,,,2026-10-19,https://gamma.app,https://dailyaitools.ai/tools/gamma/
+gamma,Gamma,Productivity,Ultra,,month,false,false,,,2026-10-19,https://gamma.app,https://dailyaitools.ai/tools/gamma/
+genspark,Genspark,Agents,Free,0,month,true,false,,,2026-10-19,https://www.genspark.ai,https://dailyaitools.ai/tools/genspark/
+genspark,Genspark,Agents,Plus,,month,false,false,,,2026-10-19,https://www.genspark.ai,https://dailyaitools.ai/tools/genspark/
+genspark,Genspark,Agents,Pro,,month,false,false,,,2026-10-19,https://www.genspark.ai,https://dailyaitools.ai/tools/genspark/
+genspark,Genspark,Agents,Team,,month,false,false,,,2026-10-19,https://www.genspark.ai,https://dailyaitools.ai/tools/genspark/
+genspark,Genspark,Agents,Enterprise,,month,false,false,,,2026-10-19,https://www.genspark.ai,https://dailyaitools.ai/tools/genspark/
+getresponse,GetResponse,Writing,Starter,19,month,false,false,"1,000 contacts",$15.58/mo billed annually,2026-10-19,https://www.getresponse.com/pricing,https://dailyaitools.ai/tools/getresponse/
+getresponse,GetResponse,Writing,Marketer,59,month,false,false,"1,000 contacts",$48.38/mo billed annually,2026-10-19,https://www.getresponse.com/pricing,https://dailyaitools.ai/tools/getresponse/
+getresponse,GetResponse,Writing,Creator,69,month,false,false,"1,000 contacts",$56.58/mo billed annually,2026-10-19,https://www.getresponse.com/pricing,https://dailyaitools.ai/tools/getresponse/
+getresponse,GetResponse,Writing,Enterprise,,other,false,false,,Custom pricing,2026-10-19,https://www.getresponse.com/pricing,https://dailyaitools.ai/tools/getresponse/
+grammarly,Grammarly,Writing,Free,0,month,true,false,,,2026-10-12,https://www.grammarly.com/plans,https://dailyaitools.ai/tools/grammarly/
+grammarly,Grammarly,Writing,Pro,30,month,false,false,"2,000 AI prompts",,2026-10-12,https://www.grammarly.com/plans,https://dailyaitools.ai/tools/grammarly/
+grammarly,Grammarly,Writing,Enterprise,,month,false,false,,,2026-10-12,https://www.grammarly.com/plans,https://dailyaitools.ai/tools/grammarly/
+granola,Granola,Productivity,Basic,0,month,true,false,Limited meeting history,,2026-10-19,https://www.granola.ai/pricing,https://dailyaitools.ai/tools/granola/
+granola,Granola,Productivity,Free,0,month,false,false,,,2026-10-19,https://www.granola.ai/pricing,https://dailyaitools.ai/tools/granola/
+granola,Granola,Productivity,Business,14,month,false,false,,per user,2026-10-19,https://www.granola.ai/pricing,https://dailyaitools.ai/tools/granola/
+granola,Granola,Productivity,Enterprise,35,month,false,false,,per user,2026-10-19,https://www.granola.ai/pricing,https://dailyaitools.ai/tools/granola/
+gumloop,Gumloop,Automation,Pro,37,month,false,false,20k+ credits/month,,2026-10-19,https://www.gumloop.com/pricing,https://dailyaitools.ai/tools/gumloop/
+gumloop,Gumloop,Automation,Enterprise,,month,false,false,,,2026-10-19,https://www.gumloop.com/pricing,https://dailyaitools.ai/tools/gumloop/
+heygen,HeyGen,Video,Free,0,month,true,false,,,2026-10-19,https://www.heygen.com/pricing,https://dailyaitools.ai/tools/heygen/
+heygen,HeyGen,Video,Creator,29,month,false,false,,,2026-10-19,https://www.heygen.com/pricing,https://dailyaitools.ai/tools/heygen/
+heygen,HeyGen,Video,Pro,49,month,false,false,,,2026-10-19,https://www.heygen.com/pricing,https://dailyaitools.ai/tools/heygen/
+heygen,HeyGen,Video,Business,149,month,false,false,,,2026-10-19,https://www.heygen.com/pricing,https://dailyaitools.ai/tools/heygen/
+heygen,HeyGen,Video,Enterprise,,month,false,false,,,2026-10-19,https://www.heygen.com/pricing,https://dailyaitools.ai/tools/heygen/
+higgsfield,Higgsfield,Video,Free,0,month,true,false,,,2026-10-19,https://higgsfield.ai/pricing,https://dailyaitools.ai/tools/higgsfield/
+higgsfield,Higgsfield,Video,Starter,19,month,false,false,270 credits/mo,Fixed amount of 270 credits per month,2026-10-19,https://higgsfield.ai/pricing,https://dailyaitools.ai/tools/higgsfield/
+higgsfield,Higgsfield,Video,Plus,59,month,false,false,"1,200 credits/mo",$47 per month billed annually,2026-10-19,https://higgsfield.ai/pricing,https://dailyaitools.ai/tools/higgsfield/
+higgsfield,Higgsfield,Video,Ultra,129,month,false,false,,$99 per month billed annually,2026-10-19,https://higgsfield.ai/pricing,https://dailyaitools.ai/tools/higgsfield/
+higgsfield,Higgsfield,Video,Enterprise,,month,false,false,,,2026-10-19,https://higgsfield.ai/pricing,https://dailyaitools.ai/tools/higgsfield/
+huggingface,Hugging Face,Code,PRO,9,month,false,false,,,2026-10-19,https://huggingface.co/pricing,https://dailyaitools.ai/tools/huggingface/
+huggingface,Hugging Face,Code,PRO Account,9,month,false,false,,,2026-10-19,https://huggingface.co/pricing,https://dailyaitools.ai/tools/huggingface/
+huggingface,Hugging Face,Code,Team,20,month,false,false,,per user,2026-10-19,https://huggingface.co/pricing,https://dailyaitools.ai/tools/huggingface/
+huggingface,Hugging Face,Code,Enterprise,50,month,false,false,,per user,2026-10-19,https://huggingface.co/pricing,https://dailyaitools.ai/tools/huggingface/
+ideogram,Ideogram,Image,Free,0,month,true,false,,,2026-10-19,https://ideogram.ai/pricing/,https://dailyaitools.ai/tools/ideogram/
+ideogram,Ideogram,Image,Free plan,0,month,false,false,10 slow credits/week,,2026-10-19,https://ideogram.ai/pricing/,https://dailyaitools.ai/tools/ideogram/
+ideogram,Ideogram,Image,Plus,15,month,false,false,"1,000 priority credits/month",billed annually for $15,2026-10-19,https://ideogram.ai/pricing/,https://dailyaitools.ai/tools/ideogram/
+ideogram,Ideogram,Image,Team,20,month,false,false,"1,500 priority credits per user / month",per user / month billed annually,2026-10-19,https://ideogram.ai/pricing/,https://dailyaitools.ai/tools/ideogram/
+ideogram,Ideogram,Image,Plus plan,20,month,false,false,"1,000 credits/mo",,2026-10-19,https://ideogram.ai/pricing/,https://dailyaitools.ai/tools/ideogram/
+ideogram,Ideogram,Image,Team plan,30,month,false,false,"1,500 credits/user/mo","per user/month, billed annually",2026-10-19,https://ideogram.ai/pricing/,https://dailyaitools.ai/tools/ideogram/
+ideogram,Ideogram,Image,Pro,42,month,false,false,"3,500 priority credits/month",billed annually for $42,2026-10-19,https://ideogram.ai/pricing/,https://dailyaitools.ai/tools/ideogram/
+ideogram,Ideogram,Image,Pro plan,60,month,false,false,"3,500 credits/mo",,2026-10-19,https://ideogram.ai/pricing/,https://dailyaitools.ai/tools/ideogram/
+ideogram,Ideogram,Image,Enterprise,,month,false,false,Custom credit amount,post paid,2026-10-19,https://ideogram.ai/pricing/,https://dailyaitools.ai/tools/ideogram/
+kit,Kit,Writing,Free,0,month,true,false,"up to 10,000 subscribers",For creators just starting out,2026-10-12,https://kit.com/pricing,https://dailyaitools.ai/tools/kit/
+kit,Kit,Writing,Creator,39,month,false,false,"1,000 email subscribers","For 1,000 email subscribers; $390 billed yearly",2026-10-12,https://kit.com/pricing,https://dailyaitools.ai/tools/kit/
+kit,Kit,Writing,Pro,66,month,false,false,"1,000 email subscribers",$593 billed first year— Save $355 first year*,2026-10-12,https://kit.com/pricing,https://dailyaitools.ai/tools/kit/
+kiwi,KIWI,Agents,Free,0,month,true,false,30 AI credits per month,,2026-10-27,https://app.kiwi/pricing/,https://dailyaitools.ai/tools/kiwi/
+kiwi,KIWI,Agents,Premium,35,month,false,false,500 AI credits per month,,2026-10-27,https://app.kiwi/pricing/,https://dailyaitools.ai/tools/kiwi/
+landbot,Landbot,Agents,Free,0,month,true,false,100 chats/mo,"free forever, 1 seat, no AI chats",2026-10-16,https://landbot.io/pricing,https://dailyaitools.ai/tools/landbot/
+landbot,Landbot,Agents,Starter,45,month,false,false,500 chats/mo,"$36 per month billed annually, includes 100 AI chats",2026-10-16,https://landbot.io/pricing,https://dailyaitools.ai/tools/landbot/
+landbot,Landbot,Agents,Professional,110,month,false,false,"2,500 chats/mo","$88 per month billed annually, includes 300 AI chats",2026-10-16,https://landbot.io/pricing,https://dailyaitools.ai/tools/landbot/
+landbot,Landbot,Agents,Business,,month,false,false,,"custom chat volume and AI chats, pricing agreed by contract",2026-10-16,https://landbot.io/pricing,https://dailyaitools.ai/tools/landbot/
+lovable,Lovable,Code,Free,0,month,true,false,,,2026-10-26,https://lovable.dev/pricing,https://dailyaitools.ai/tools/lovable/
+lovable,Lovable,Code,Pro,25,month,false,false,,,2026-10-26,https://lovable.dev/pricing,https://dailyaitools.ai/tools/lovable/
+lovable,Lovable,Code,Business,50,month,false,false,,,2026-10-26,https://lovable.dev/pricing,https://dailyaitools.ai/tools/lovable/
+lovable,Lovable,Code,Enterprise,,month,false,false,,,2026-10-26,https://lovable.dev/pricing,https://dailyaitools.ai/tools/lovable/
+luma-dream-machine,Luma Dream Machine,Video,Plus,30,month,false,false,,$300 billed yearly,2026-10-12,https://lumalabs.ai/pricing,https://dailyaitools.ai/tools/luma-dream-machine/
+luma-dream-machine,Luma Dream Machine,Video,Pro,90,month,false,false,,$900 billed yearly,2026-10-12,https://lumalabs.ai/pricing,https://dailyaitools.ai/tools/luma-dream-machine/
+luma-dream-machine,Luma Dream Machine,Video,Ultra,300,month,false,false,,"$3,000 billed yearly",2026-10-12,https://lumalabs.ai/pricing,https://dailyaitools.ai/tools/luma-dream-machine/
+luma-dream-machine,Luma Dream Machine,Video,Team,,month,false,false,,,2026-10-12,https://lumalabs.ai/pricing,https://dailyaitools.ai/tools/luma-dream-machine/
+luma-dream-machine,Luma Dream Machine,Video,Enterprise,,month,false,false,,,2026-10-12,https://lumalabs.ai/pricing,https://dailyaitools.ai/tools/luma-dream-machine/
+mailchimp,Mailchimp,Writing,Free,0,month,true,false,Under 250 contacts,,2026-10-26,https://mailchimp.com/pricing/marketing/,https://dailyaitools.ai/tools/mailchimp/
+mailchimp,Mailchimp,Writing,Essentials,13,month,false,false,,"Starting price at 500 contacts, after a 14-day free trial. 15% off the first 12 months at 10,000+ contacts",2026-10-26,https://mailchimp.com/pricing/marketing/,https://dailyaitools.ai/tools/mailchimp/
+mailchimp,Mailchimp,Writing,Standard,20,month,false,false,"6,000 emails each month","Starting price at 500 contacts, after a 14-day free trial. 15% off the first 12 months at 10,000+ contacts",2026-10-26,https://mailchimp.com/pricing/marketing/,https://dailyaitools.ai/tools/mailchimp/
+mailchimp,Mailchimp,Writing,Premium,350,month,false,false,"150,000 emails each month","Starting price at 10,000 contacts. $297.50/mo for the first 12 months (15% introductory offer)",2026-10-26,https://mailchimp.com/pricing/marketing/,https://dailyaitools.ai/tools/mailchimp/
+meetgeek,MeetGeek,Productivity,Basic,0,month,true,false,3 hours of transcription / mo,Free forever,2026-10-26,https://meetgeek.ai/pricing,https://dailyaitools.ai/tools/meetgeek/
+meetgeek,MeetGeek,Productivity,Pro,9.99,month,false,false,20 hours of transcription / mo,per user,2026-10-26,https://meetgeek.ai/pricing,https://dailyaitools.ai/tools/meetgeek/
+meetgeek,MeetGeek,Productivity,Business,17,month,false,false,Unlimited transcription,per user,2026-10-26,https://meetgeek.ai/pricing,https://dailyaitools.ai/tools/meetgeek/
+meetgeek,MeetGeek,Productivity,Enterprise,,month,false,false,Unlimited transcription,Contact sales,2026-10-26,https://meetgeek.ai/pricing,https://dailyaitools.ai/tools/meetgeek/
+mindstudio,MindStudio,Agents,Free,0,month,true,false,"1,000 runs / month",,2026-10-26,https://www.mindstudio.ai/pricing,https://dailyaitools.ai/tools/mindstudio/
+mindstudio,MindStudio,Agents,Individual,20,month,false,false,"Unlimited agents, Unlimited runs / month",,2026-10-26,https://www.mindstudio.ai/pricing,https://dailyaitools.ai/tools/mindstudio/
+mindstudio,MindStudio,Agents,Business,,month,false,false,,,2026-10-26,https://www.mindstudio.ai/pricing,https://dailyaitools.ai/tools/mindstudio/
+miro,Miro,Productivity,Free,0,month,true,false,3 editable boards,,2026-10-12,https://miro.com/pricing/,https://dailyaitools.ai/tools/miro/
+miro,Miro,Productivity,Starter,8,month,false,false,25 AI credits/member/month,billed yearly,2026-10-12,https://miro.com/pricing/,https://dailyaitools.ai/tools/miro/
+miro,Miro,Productivity,Business,20,month,false,false,50 AI credits/member/month,billed yearly,2026-10-12,https://miro.com/pricing/,https://dailyaitools.ai/tools/miro/
+miro,Miro,Productivity,Enterprise,,month,false,false,Starts from 2500 credits per month,,2026-10-12,https://miro.com/pricing/,https://dailyaitools.ai/tools/miro/
+motion,Motion,Productivity,Pro AI,19,month,false,false,,billed annually,2026-10-26,https://www.usemotion.com/pricing,https://dailyaitools.ai/tools/motion/
+motion,Motion,Productivity,Business AI,29,month,false,false,,billed annually,2026-10-26,https://www.usemotion.com/pricing,https://dailyaitools.ai/tools/motion/
+motion,Motion,Productivity,Enterprise,,month,false,false,,,2026-10-26,https://www.usemotion.com/pricing,https://dailyaitools.ai/tools/motion/
+mureka,Mureka,Audio,Free,0,usage,true,false,,,2026-10-12,https://www.mureka.ai,https://dailyaitools.ai/tools/mureka/
+mureka,Mureka,Audio,Basic Music & Speech,8,month,false,false,up to 400 songs or 200 minutes of speech each month,billed annually at $96,2026-10-12,https://www.mureka.ai,https://dailyaitools.ai/tools/mureka/
+n8n,n8n,Automation,Starter,20,month,false,false,2.5K workflow executions with unlimited steps,billed annually,2026-10-26,https://n8n.io/pricing/,https://dailyaitools.ai/tools/n8n/
+n8n,n8n,Automation,Pro,50,month,false,false,10K workflow executions with unlimited steps,billed annually,2026-10-26,https://n8n.io/pricing/,https://dailyaitools.ai/tools/n8n/
+n8n,n8n,Automation,Business,800,month,false,false,40K workflow executions with unlimited steps,billed annually,2026-10-26,https://n8n.io/pricing/,https://dailyaitools.ai/tools/n8n/
+n8n,n8n,Automation,Enterprise,,other,false,false,Custom number of workflow executions,,2026-10-26,https://n8n.io/pricing/,https://dailyaitools.ai/tools/n8n/
+napkin-ai,Napkin AI,Image,FREE,0,month,true,false,500 AI credits per week,,2026-10-28,https://www.napkin.ai/pricing/,https://dailyaitools.ai/tools/napkin-ai/
+napkin-ai,Napkin AI,Image,PLUS,9,month,false,false,"10,000 AI credits per month",,2026-10-28,https://www.napkin.ai/pricing/,https://dailyaitools.ai/tools/napkin-ai/
+napkin-ai,Napkin AI,Image,PRO,22,month,false,false,"30,000 AI credits per month",,2026-10-28,https://www.napkin.ai/pricing/,https://dailyaitools.ai/tools/napkin-ai/
+ngram,ngram,Video,Free,0,usage,true,false,Up to 60 seconds,600 one-time credits,2026-10-26,https://www.ngram.com/pricing,https://dailyaitools.ai/tools/ngram/
+ngram,ngram,Video,Basic,29,month,false,false,Up to 300 seconds,billed annually,2026-10-26,https://www.ngram.com/pricing,https://dailyaitools.ai/tools/ngram/
+ngram,ngram,Video,Premium,59,month,false,false,"Up to 1,000 seconds",billed annually,2026-10-26,https://www.ngram.com/pricing,https://dailyaitools.ai/tools/ngram/
+ngram,ngram,Video,Ultimate,299,month,false,false,"Up to 5,000 seconds",billed annually,2026-10-26,https://www.ngram.com/pricing,https://dailyaitools.ai/tools/ngram/
+ngram,ngram,Video,Enterprise,,other,false,false,,Tailored to your organization,2026-10-26,https://www.ngram.com/pricing,https://dailyaitools.ai/tools/ngram/
+notion-ai,Notion AI,Productivity,Free,0,month,true,false,,,2026-10-12,https://www.notion.com/pricing,https://dailyaitools.ai/tools/notion-ai/
+notion-ai,Notion AI,Productivity,Plus,10,month,false,false,,,2026-10-12,https://www.notion.com/pricing,https://dailyaitools.ai/tools/notion-ai/
+notion-ai,Notion AI,Productivity,Custom Agents,10,usage,false,false,"per 1,000 monthly Notion credits",,2026-10-12,https://www.notion.com/pricing,https://dailyaitools.ai/tools/notion-ai/
+notion-ai,Notion AI,Productivity,Business,20,month,false,false,,,2026-10-12,https://www.notion.com/pricing,https://dailyaitools.ai/tools/notion-ai/
+notion-ai,Notion AI,Productivity,Enterprise,,month,false,false,,,2026-10-12,https://www.notion.com/pricing,https://dailyaitools.ai/tools/notion-ai/
+notta,Notta,Audio,Free,0,month,true,false,,,2026-10-26,https://www.notta.ai/pricing,https://dailyaitools.ai/tools/notta/
+notta,Notta,Audio,Pro,8.17,month,false,false,,$97.99 billed annually,2026-10-26,https://www.notta.ai/pricing,https://dailyaitools.ai/tools/notta/
+notta,Notta,Audio,Business,16.67,month,false,false,,$199.99 billed annually,2026-10-26,https://www.notta.ai/pricing,https://dailyaitools.ai/tools/notta/
+notta,Notta,Audio,Enterprise,,month,false,false,,Custom pricing for 51+ seats,2026-10-26,https://www.notta.ai/pricing,https://dailyaitools.ai/tools/notta/
+nouswise,Nouswise,Search,Starter,0,month,true,false,Up to 50 Files in Focus,,2026-10-12,https://nouswise.com,https://dailyaitools.ai/tools/nouswise/
+nouswise,Nouswise,Search,Essential,10,month,false,false,Up to 300 Files in Focus,,2026-10-12,https://nouswise.com,https://dailyaitools.ai/tools/nouswise/
+nouswise,Nouswise,Search,Professional,40,month,false,false,,,2026-10-12,https://nouswise.com,https://dailyaitools.ai/tools/nouswise/
+omniseo,OmniSEO,Search,Essentials,89,month,false,false,50 saved prompts/month,45 first month after trial,2026-10-12,https://omniseo.com/pricing/,https://dailyaitools.ai/tools/omniseo/
+omniseo,OmniSEO,Search,Professional,349,month,false,false,100 saved prompts/month,175 first month after trial,2026-10-12,https://omniseo.com/pricing/,https://dailyaitools.ai/tools/omniseo/
+omniseo,OmniSEO,Search,Enterprise,899,month,false,false,500+ saved prompts/month,Custom term & volume,2026-10-12,https://omniseo.com/pricing/,https://dailyaitools.ai/tools/omniseo/
+opus-clip,Opus Clip,Video,Free,0,month,true,false,60 credits per month,Up to 1080p rendered clips,2026-10-26,https://www.opus.pro/pricing,https://dailyaitools.ai/tools/opus-clip/
+opus-clip,Opus Clip,Video,Starter,15,month,false,false,,,2026-10-26,https://www.opus.pro/pricing,https://dailyaitools.ai/tools/opus-clip/
+opus-clip,Opus Clip,Video,Pro,29,month,false,false,,,2026-10-26,https://www.opus.pro/pricing,https://dailyaitools.ai/tools/opus-clip/
+opus-clip,Opus Clip,Video,Business,,month,false,false,,,2026-10-26,https://www.opus.pro/pricing,https://dailyaitools.ai/tools/opus-clip/
+otter-ai,Otter.ai,Audio,Basic,0,month,true,false,,,2026-10-26,https://otter.ai/pricing,https://dailyaitools.ai/tools/otter-ai/
+otter-ai,Otter.ai,Audio,Pro,8.33,month,false,false,,$8.33/user/month with annual billing,2026-10-26,https://otter.ai/pricing,https://dailyaitools.ai/tools/otter-ai/
+otter-ai,Otter.ai,Audio,Business,19.99,month,false,false,,$19.99/user/month with annual billing,2026-10-26,https://otter.ai/pricing,https://dailyaitools.ai/tools/otter-ai/
+otter-ai,Otter.ai,Audio,Enterprise,,month,false,false,,,2026-10-26,https://otter.ai/pricing,https://dailyaitools.ai/tools/otter-ai/
+photoroom,Photoroom,Image,Free,0,month,true,false,,core tools included,2026-10-12,https://www.photoroom.com/pricing,https://dailyaitools.ai/tools/photoroom/
+photoroom,Photoroom,Image,Pro,7.5,month,false,false,,"billed yearly; 4,250 AI credits, 1,000 exports",2026-10-12,https://www.photoroom.com/pricing,https://dailyaitools.ai/tools/photoroom/
+photoroom,Photoroom,Image,Max,20.99,month,false,false,,"billed yearly; 12,000 AI credits, 3,000 exports, includes Shopify",2026-10-12,https://www.photoroom.com/pricing,https://dailyaitools.ai/tools/photoroom/
+photoroom,Photoroom,Image,Ultra,82.5,month,false,false,,"billed yearly; 20,000 AI credits, 10,000 exports, 4K resolution",2026-10-12,https://www.photoroom.com/pricing,https://dailyaitools.ai/tools/photoroom/
+photoroom,Photoroom,Image,Enterprise,,month,false,false,,custom pricing,2026-10-12,https://www.photoroom.com/pricing,https://dailyaitools.ai/tools/photoroom/
+pictory,Pictory,Video,Starter,29,month,false,false,"2,400 minutes yr",$25 per month if billed annually,2026-10-12,https://pictory.ai/pricing,https://dailyaitools.ai/tools/pictory/
+pictory,Pictory,Video,Professional,59,month,false,false,"7,200 minutes yr",$35 per month if billed annually,2026-10-12,https://pictory.ai/pricing,https://dailyaitools.ai/tools/pictory/
+pictory,Pictory,Video,Team,199,month,false,false,"21,600 minutes yr",$119 per month if billed annually,2026-10-12,https://pictory.ai/pricing,https://dailyaitools.ai/tools/pictory/
+pictory,Pictory,Video,Enterprise,,month,false,false,,Custom video minutes and storage,2026-10-12,https://pictory.ai/pricing,https://dailyaitools.ai/tools/pictory/
+pika,Pika,Video,Free,0,month,true,false,0 credits / month · packs only,No commercial license,2026-10-05,https://pika.art/pricing,https://dailyaitools.ai/tools/pika/
+pika,Pika,Video,Starter,10,month,false,false,900 credits / month,$8/mo billed annually; no commercial license,2026-10-05,https://pika.art/pricing,https://dailyaitools.ai/tools/pika/
+pika,Pika,Video,Creator,35,month,false,false,"3,150 credits / month",$28/mo billed annually; commercial license included,2026-10-05,https://pika.art/pricing,https://dailyaitools.ai/tools/pika/
+pika,Pika,Video,Fancy,95,month,false,false,"8,550 credits / month",$95 to $880/mo depending on credits; from $76/mo billed annually,2026-10-05,https://pika.art/pricing,https://dailyaitools.ai/tools/pika/
+pika,Pika,Video,Enterprise,,month,false,false,,Contact sales,2026-10-05,https://pika.art/pricing,https://dailyaitools.ai/tools/pika/
+platpost,PlatPost,Productivity,FREE,0,month,true,false,,,2026-10-22,https://www.platpost.com,https://dailyaitools.ai/tools/platpost/
+platpost,PlatPost,Productivity,STANDARD,29.99,month,false,false,,or $24.99 a month paid annually,2026-10-22,https://www.platpost.com,https://dailyaitools.ai/tools/platpost/
+platpost,PlatPost,Productivity,TEAM,69.99,month,false,false,,or $58.33 a month paid annually,2026-10-22,https://www.platpost.com,https://dailyaitools.ai/tools/platpost/
+platpost,PlatPost,Productivity,MANAGED,349.99,month,false,false,,or $291.66 a month paid annually,2026-10-22,https://www.platpost.com,https://dailyaitools.ai/tools/platpost/
+platpost,PlatPost,Productivity,ENTERPRISE,,month,false,false,,Priced against your own volume,2026-10-22,https://www.platpost.com,https://dailyaitools.ai/tools/platpost/
+predis-ai,Predis AI,Image,Core,32,month,false,false,1 Brand,$288 Billed Yearly,2026-10-05,https://predis.ai/pricing/,https://dailyaitools.ai/tools/predis-ai/
+predis-ai,Predis AI,Image,Rise,79,month,false,false,Upto 4 Brands,$664 Billed Yearly,2026-10-05,https://predis.ai/pricing/,https://dailyaitools.ai/tools/predis-ai/
+predis-ai,Predis AI,Image,Enterprise +,249,month,false,false,Unlimited Brands,"$2,540 Billed Yearly",2026-10-05,https://predis.ai/pricing/,https://dailyaitools.ai/tools/predis-ai/
+quillbot,QuillBot,Writing,Free,0,month,true,false,,,2026-10-05,https://quillbot.com/premium,https://dailyaitools.ai/tools/quillbot/
+quillbot,QuillBot,Writing,Premium,8.33,month,false,false,,billed annually,2026-10-05,https://quillbot.com/premium,https://dailyaitools.ai/tools/quillbot/
+quillbot,QuillBot,Writing,Team Plan,,month,false,false,,,2026-10-05,https://quillbot.com/premium,https://dailyaitools.ai/tools/quillbot/
+quo,Quo,Productivity,Starter,19,month,false,false,,$15/mo billed annually ($180/yr),2026-10-12,https://www.quo.com/pricing,https://dailyaitools.ai/tools/quo/
+quo,Quo,Productivity,Business,33,month,false,false,,$23/mo billed annually ($276/yr),2026-10-12,https://www.quo.com/pricing,https://dailyaitools.ai/tools/quo/
+quo,Quo,Productivity,Scale,47,month,false,false,,$35/mo billed annually ($420/yr),2026-10-12,https://www.quo.com/pricing,https://dailyaitools.ai/tools/quo/
+read-ai,Read AI,Productivity,Free,0,month,true,false,5 meeting transcripts per month,1 hour maximum meeting length,2026-10-30,https://www.read.ai/plans-pricing,https://dailyaitools.ai/tools/read-ai/
+read-ai,Read AI,Productivity,Enterprise,22.5,month,false,false,200 file upload credits /mo,Per user / month when billed annually,2026-10-30,https://www.read.ai/plans-pricing,https://dailyaitools.ai/tools/read-ai/
+reclaim-ai,Reclaim.ai,Productivity,Lite,0,month,true,false,,,2026-10-12,https://reclaim.ai/pricing,https://dailyaitools.ai/tools/reclaim-ai/
+reclaim-ai,Reclaim.ai,Productivity,Starter,10,month,false,false,,,2026-10-12,https://reclaim.ai/pricing,https://dailyaitools.ai/tools/reclaim-ai/
+reclaim-ai,Reclaim.ai,Productivity,Business,15,month,false,false,,,2026-10-12,https://reclaim.ai/pricing,https://dailyaitools.ai/tools/reclaim-ai/
+reclaim-ai,Reclaim.ai,Productivity,Enterprise,22,month,false,false,,,2026-10-12,https://reclaim.ai/pricing,https://dailyaitools.ai/tools/reclaim-ai/
+recraft,Recraft,Image,Free,0,month,true,false,,,2026-10-12,https://www.recraft.ai/pricing,https://dailyaitools.ai/tools/recraft/
+recraft,Recraft,Image,Basic,10,month,false,false,,billed annually $120,2026-10-12,https://www.recraft.ai/pricing,https://dailyaitools.ai/tools/recraft/
+recraft,Recraft,Image,Pro,16,month,false,false,,billed annually $192,2026-10-12,https://www.recraft.ai/pricing,https://dailyaitools.ai/tools/recraft/
+recraft,Recraft,Image,Teams,18,month,false,false,,"per seat, billed annually $211",2026-10-12,https://www.recraft.ai/pricing,https://dailyaitools.ai/tools/recraft/
+replit,Replit,Code,Starter,0,month,true,false,Publish up to 1 project,,2026-10-12,https://replit.com/pricing,https://dailyaitools.ai/tools/replit/
+replit,Replit,Code,Free,0,month,false,false,,,2026-10-12,https://replit.com/pricing,https://dailyaitools.ai/tools/replit/
+replit,Replit,Code,Replit Core,20,month,false,false,,billed annually,2026-10-12,https://replit.com/pricing,https://dailyaitools.ai/tools/replit/
+replit,Replit,Code,Core,20,month,false,false,,$17 per month billed annually,2026-10-12,https://replit.com/pricing,https://dailyaitools.ai/tools/replit/
+replit,Replit,Code,Replit Pro,100,month,false,false,,billed annually,2026-10-12,https://replit.com/pricing,https://dailyaitools.ai/tools/replit/
+replit,Replit,Code,Pro,100,month,false,false,,$95 per month billed annually,2026-10-12,https://replit.com/pricing,https://dailyaitools.ai/tools/replit/
+replit,Replit,Code,Enterprise,,month,false,false,,Custom pricing,2026-10-12,https://replit.com/pricing,https://dailyaitools.ai/tools/replit/
+retell-ai,Retell AI,Agents,Pay as you go,0.07,usage,false,false,20 concurrent calls,$0.07 to $0.31 per minute for voice agents,2026-10-12,https://www.retellai.com/pricing,https://dailyaitools.ai/tools/retell-ai/
+retell-ai,Retell AI,Agents,Enterprise Plan,,other,false,false,,Custom pricing for high-volume deployments,2026-10-12,https://www.retellai.com/pricing,https://dailyaitools.ai/tools/retell-ai/
+rev,Rev,Audio,Free,0,month,true,false,45 AI transcription & caption minutes/month,,2026-10-26,https://www.rev.com/pricing,https://dailyaitools.ai/tools/rev/
+rev,Rev,Audio,Essentials,25.49,month,false,false,"5,000 AI transcription & caption minutes/user/month",$305.90 billed annually,2026-10-26,https://www.rev.com/pricing,https://dailyaitools.ai/tools/rev/
+rev,Rev,Audio,Pro,47.99,month,false,false,"10,000 AI transcription & caption minutes/user/month",$575.88 billed annually,2026-10-26,https://www.rev.com/pricing,https://dailyaitools.ai/tools/rev/
+rev,Rev,Audio,Unlimited,,month,false,false,,Custom enterprise pricing,2026-10-26,https://www.rev.com/pricing,https://dailyaitools.ai/tools/rev/
+riverside,Riverside,Video,Pro,35,month,false,false,15 hrs of separate track downloads,$24/mo billed annually,2026-10-12,https://riverside.com/pricing,https://dailyaitools.ai/tools/riverside/
+riverside,Riverside,Video,Grow,45,month,false,false,20 hrs of separate track downloads,$34/mo billed annually,2026-10-12,https://riverside.com/pricing,https://dailyaitools.ai/tools/riverside/
+riverside,Riverside,Video,Webinar,99,month,false,false,25 hrs of separate track downloads,$79/mo billed annually,2026-10-12,https://riverside.com/pricing,https://dailyaitools.ai/tools/riverside/
+riverside,Riverside,Video,Business,,month,false,false,"Up to 10,000 webinar registrants",Contact sales,2026-10-12,https://riverside.com/pricing,https://dailyaitools.ai/tools/riverside/
+runway,Runway,Video,Free,0,one-time,true,false,125 one-time credits,,2026-10-12,https://runwayml.com/pricing,https://dailyaitools.ai/tools/runway/
+runway,Runway,Video,Standard,15,month,false,false,625 credits monthly,Billed annually. Save $36/year.,2026-10-12,https://runwayml.com/pricing,https://dailyaitools.ai/tools/runway/
+runway,Runway,Video,Pro,35,month,false,false,2250 credits monthly,Billed annually. Save $84/year.,2026-10-12,https://runwayml.com/pricing,https://dailyaitools.ai/tools/runway/
+runway,Runway,Video,Max,95,month,false,false,,Billed annually. Save $228/year.,2026-10-12,https://runwayml.com/pricing,https://dailyaitools.ai/tools/runway/
+runway,Runway,Video,Enterprise,,other,false,false,Custom credits,,2026-10-12,https://runwayml.com/pricing,https://dailyaitools.ai/tools/runway/
+rytr,Rytr,Writing,Free,0,month,true,false,,,2026-11-01,https://rytr.me/pricing,https://dailyaitools.ai/tools/rytr/
+rytr,Rytr,Writing,Lite,9,month,false,false,,,2026-11-01,https://rytr.me/pricing,https://dailyaitools.ai/tools/rytr/
+rytr,Rytr,Writing,Personal,19,month,false,false,,,2026-11-01,https://rytr.me/pricing,https://dailyaitools.ai/tools/rytr/
+rytr,Rytr,Writing,Pro,49,month,false,false,,,2026-11-01,https://rytr.me/pricing,https://dailyaitools.ai/tools/rytr/
+sanebox,SaneBox,Productivity,Snack,4.54,month,false,false,1 Email account,paid biyearly,2026-10-05,https://www.sanebox.com/pricing,https://dailyaitools.ai/tools/sanebox/
+sanebox,SaneBox,Productivity,Lunch,7.46,month,false,false,2 Email accounts,paid biyearly,2026-10-05,https://www.sanebox.com/pricing,https://dailyaitools.ai/tools/sanebox/
+sanebox,SaneBox,Productivity,Dinner,22.04,month,false,false,4 Email accounts,paid biyearly,2026-10-05,https://www.sanebox.com/pricing,https://dailyaitools.ai/tools/sanebox/
+scispace,SciSpace,Search,Free,0,month,true,false,2 chats per day,,2026-10-24,https://scispace.com/pricing,https://dailyaitools.ai/tools/scispace/
+scispace,SciSpace,Search,Premium,20,month,false,false,"1,200 monthly credits",$12/month billed annually,2026-10-24,https://scispace.com/pricing,https://dailyaitools.ai/tools/scispace/
+scispace,SciSpace,Search,Advanced,90,month,false,false,Unlimited monthly usage,$70/month billed annually,2026-10-24,https://scispace.com/pricing,https://dailyaitools.ai/tools/scispace/
+scispace,SciSpace,Search,Max,200,month,false,false,Unlimited monthly usage,$160/month billed annually,2026-10-24,https://scispace.com/pricing,https://dailyaitools.ai/tools/scispace/
+scispace,SciSpace,Search,SciSpace Enterprise,,other,false,false,,Contact sales for enterprise access,2026-10-24,https://scispace.com/pricing,https://dailyaitools.ai/tools/scispace/
+scite,Scite,Search,Basic,12,month,false,false,250 MCP credits/month,Billed yearly,2026-10-25,https://scite.ai/pricing,https://dailyaitools.ai/tools/scite/
+scite,Scite,Search,Pro,40,month,false,false,"2,500 MCP credits/month",Billed yearly,2026-10-25,https://scite.ai/pricing,https://dailyaitools.ai/tools/scite/
+scite,Scite,Search,Enterprise,,other,false,false,,Contact sales,2026-10-25,https://scite.ai/pricing,https://dailyaitools.ai/tools/scite/
+stability-ai,Stability AI,Image,Free,0,usage,true,false,Get started with 25 free credits,,2026-10-19,https://platform.stability.ai/pricing,https://dailyaitools.ai/tools/stability-ai/
+stability-ai,Stability AI,Image,Credits,0.01,usage,false,false,,1 credit = $0.01,2026-10-19,https://platform.stability.ai/pricing,https://dailyaitools.ai/tools/stability-ai/
+stack-ai,Stack AI,Agents,Free plan,0,month,true,false,500 runs per month,,2026-10-18,https://www.stackai.com/pricing,https://dailyaitools.ai/tools/stack-ai/
+stack-ai,Stack AI,Agents,Enterprise,,month,false,false,,,2026-10-18,https://www.stackai.com/pricing,https://dailyaitools.ai/tools/stack-ai/
+submagic,Submagic,Video,Starter,12,month,false,false,45 credits,billed yearly,2026-10-19,https://www.submagic.co/pricing,https://dailyaitools.ai/tools/submagic/
+submagic,Submagic,Video,Pro,23,month,false,false,120 credits,billed yearly,2026-10-19,https://www.submagic.co/pricing,https://dailyaitools.ai/tools/submagic/
+submagic,Submagic,Video,Business,41,month,false,false,300 credits,billed yearly,2026-10-19,https://www.submagic.co/pricing,https://dailyaitools.ai/tools/submagic/
+submagic,Submagic,Video,Custom Plan,,other,false,false,,Contact sales,2026-10-19,https://www.submagic.co/pricing,https://dailyaitools.ai/tools/submagic/
+suno,Suno,Audio,Free,0,month,true,false,50 credits renew daily,,2026-10-19,https://suno.com/pricing,https://dailyaitools.ai/tools/suno/
+suno,Suno,Audio,Free Plan,0,month,false,false,,,2026-10-19,https://suno.com/pricing,https://dailyaitools.ai/tools/suno/
+suno,Suno,Audio,Pro,8,month,false,false,"2,500 credits, refreshes monthly",,2026-10-19,https://suno.com/pricing,https://dailyaitools.ai/tools/suno/
+suno,Suno,Audio,Pro Plan,8,month,false,false,,Saves $24 by billing yearly!,2026-10-19,https://suno.com/pricing,https://dailyaitools.ai/tools/suno/
+suno,Suno,Audio,Premier,24,month,false,false,"10,000 credits, refreshes monthly",,2026-10-19,https://suno.com/pricing,https://dailyaitools.ai/tools/suno/
+suno,Suno,Audio,Premier Plan,24,month,false,false,,Saves $72 by billing yearly!,2026-10-19,https://suno.com/pricing,https://dailyaitools.ai/tools/suno/
+supaquery,Supaquery,Productivity,One plan. The whole product.,99,month,false,false,,,2026-10-26,https://supaquery.com,https://dailyaitools.ai/tools/supaquery/
+synthesia,Synthesia,Video,Free,0,month,true,false,10 minutes of video/month,try for free,2026-10-19,https://www.synthesia.io/pricing,https://dailyaitools.ai/tools/synthesia/
+synthesia,Synthesia,Video,Basic,0,month,false,false,10 minutes of video / month,try for free,2026-10-19,https://www.synthesia.io/pricing,https://dailyaitools.ai/tools/synthesia/
+synthesia,Synthesia,Video,Starter,19,month,false,false,120 minutes of video / year,$14/mo billed yearly,2026-10-19,https://www.synthesia.io/pricing,https://dailyaitools.ai/tools/synthesia/
+synthesia,Synthesia,Video,Creator,89,month,false,false,360 minutes of video / year,billed monthly,2026-10-19,https://www.synthesia.io/pricing,https://dailyaitools.ai/tools/synthesia/
+synthesia,Synthesia,Video,Pro,89,month,false,false,"72,000 credits / year",,2026-10-19,https://www.synthesia.io/pricing,https://dailyaitools.ai/tools/synthesia/
+synthesia,Synthesia,Video,Enterprise,,month,false,false,Unlimited minutes of video,tailored pricing,2026-10-19,https://www.synthesia.io/pricing,https://dailyaitools.ai/tools/synthesia/
+tactiq,Tactiq,Productivity,Free,0,month,true,false,10 transcripts and 5 AI credits per month,,2026-10-10,https://tactiq.io/buy,https://dailyaitools.ai/tools/tactiq/
+tactiq,Tactiq,Productivity,Pro,8,month,false,false,10 AI credits per month,billed annually,2026-10-10,https://tactiq.io/buy,https://dailyaitools.ai/tools/tactiq/
+tactiq,Tactiq,Productivity,Team,16.67,month,false,false,,billed annually,2026-10-10,https://tactiq.io/buy,https://dailyaitools.ai/tools/tactiq/
+tactiq,Tactiq,Productivity,Business,29.17,month,false,false,,billed annually,2026-10-10,https://tactiq.io/buy,https://dailyaitools.ai/tools/tactiq/
+tactiq,Tactiq,Productivity,Enterprise,,month,false,false,,custom pricing,2026-10-10,https://tactiq.io/buy,https://dailyaitools.ai/tools/tactiq/
+taskade,Taskade,Productivity,Free,0,month,true,false,Up to 3 apps,1 user included,2026-10-12,https://www.taskade.com/pricing,https://dailyaitools.ai/tools/taskade/
+taskade,Taskade,Productivity,Pro,10,month,false,false,"50,000 credits/month and 100 GB AI storage","billed annually, 10 users included",2026-10-12,https://www.taskade.com/pricing,https://dailyaitools.ai/tools/taskade/
+taskade,Taskade,Productivity,Business,25,month,false,false,"150,000 credits/month and 1 TB AI storage","billed annually, unlimited users included",2026-10-12,https://www.taskade.com/pricing,https://dailyaitools.ai/tools/taskade/
+taskade,Taskade,Productivity,Max,100,month,false,false,,"billed annually, unlimited users included",2026-10-12,https://www.taskade.com/pricing,https://dailyaitools.ai/tools/taskade/
+taskade,Taskade,Productivity,Enterprise,250,month,false,false,,,2026-10-12,https://www.taskade.com/pricing,https://dailyaitools.ai/tools/taskade/
+tavily,Tavily,Search,Free,0,month,true,false,"1,000 credits/month",,2026-10-12,https://www.tavily.com,https://dailyaitools.ai/tools/tavily/
+testdriver,TestDriver,Code,Pro,20,month,false,false,Includes 120 Testing Minutes,,2026-10-05,https://testdriver.ai/pricing/,https://dailyaitools.ai/tools/testdriver/
+testdriver,TestDriver,Code,Enterprise,,month,false,false,,,2026-10-05,https://testdriver.ai/pricing/,https://dailyaitools.ai/tools/testdriver/
+tidio,Tidio,Agents,Free,0,month,true,false,50 billable conversations,,2026-10-12,https://www.tidio.com/pricing/,https://dailyaitools.ai/tools/tidio/
+tidio,Tidio,Agents,Starter,24.17,month,false,false,100 billable conversations,,2026-10-12,https://www.tidio.com/pricing/,https://dailyaitools.ai/tools/tidio/
+tidio,Tidio,Agents,Growth,49.17,month,false,false,Starts at 250 billable conversations,starts at,2026-10-12,https://www.tidio.com/pricing/,https://dailyaitools.ai/tools/tidio/
+tidio,Tidio,Agents,Plus,300,month,false,false,,"starts at, plus monthly usage; alternate listing starts at 749 USD/mo.",2026-10-12,https://www.tidio.com/pricing/,https://dailyaitools.ai/tools/tidio/
+tidio,Tidio,Agents,Premium,,month,false,false,,contact for pricing; alternate listing starts at 2999 USD/mo.,2026-10-12,https://www.tidio.com/pricing/,https://dailyaitools.ai/tools/tidio/
+trainual,Trainual,Productivity,Core,,month,false,false,,,2026-10-19,https://trainual.com/pricing,https://dailyaitools.ai/tools/trainual/
+trainual,Trainual,Productivity,Pro,,month,false,false,,,2026-10-19,https://trainual.com/pricing,https://dailyaitools.ai/tools/trainual/
+trainual,Trainual,Productivity,Premium,,month,false,false,,,2026-10-19,https://trainual.com/pricing,https://dailyaitools.ai/tools/trainual/
+trainual,Trainual,Productivity,Enterprise,,month,false,false,,,2026-10-19,https://trainual.com/pricing,https://dailyaitools.ai/tools/trainual/
+udio,Udio,Audio,Free,0,month,true,false,10 credits per day and 100 credits per month,,2026-10-05,https://www.udio.com/pricing,https://dailyaitools.ai/tools/udio/
+udio,Udio,Audio,Standard,10,month,false,false,2400 credits per month,$8/month $96 billed annually,2026-10-05,https://www.udio.com/pricing,https://dailyaitools.ai/tools/udio/
+udio,Udio,Audio,Pro,30,month,false,false,6000 credits per month,$24/month $288 billed annually,2026-10-05,https://www.udio.com/pricing,https://dailyaitools.ai/tools/udio/
+vapi,Vapi,Agents,No Success Package,0,usage,true,false,,,2026-10-11,https://vapi.ai/pricing,https://dailyaitools.ai/tools/vapi/
+vapi,Vapi,Agents,Core,29,month,false,false,,,2026-10-11,https://vapi.ai/pricing,https://dailyaitools.ai/tools/vapi/
+vapi,Vapi,Agents,Pro,999,month,false,false,,10% of Vapi hosting fee,2026-10-11,https://vapi.ai/pricing,https://dailyaitools.ai/tools/vapi/
+vapi,Vapi,Agents,Premier,,usage,false,false,,,2026-10-11,https://vapi.ai/pricing,https://dailyaitools.ai/tools/vapi/
+veed,VEED,Video,Creator,12,month,false,false,"6,000 Credits",billed yearly as $147,2026-10-12,https://www.veed.io/pricing,https://dailyaitools.ai/tools/veed/
+veed,VEED,Video,Pro,22,month,false,false,"30,000 Credits",billed yearly as $265,2026-10-12,https://www.veed.io/pricing,https://dailyaitools.ai/tools/veed/
+veed,VEED,Video,Studio,39,month,false,false,"180,000 Credits",billed yearly as $465,2026-10-12,https://www.veed.io/pricing,https://dailyaitools.ai/tools/veed/
+veed,VEED,Video,Enterprise,,other,false,false,,Custom pricing,2026-10-12,https://www.veed.io/pricing,https://dailyaitools.ai/tools/veed/
+voiceflow,Voiceflow,Agents,For Agencies & Partners,,usage,false,false,,"Transparent, usage-based billing",2026-10-15,https://www.voiceflow.com/pricing,https://dailyaitools.ai/tools/voiceflow/
+voiceflow,Voiceflow,Agents,For Businesses,,usage,false,false,,,2026-10-15,https://www.voiceflow.com/pricing,https://dailyaitools.ai/tools/voiceflow/
+windsurf,Windsurf,Code,Free,0,month,true,false,,,2026-10-12,https://devin.ai/pricing,https://dailyaitools.ai/tools/windsurf/
+windsurf,Windsurf,Code,Pro,20,month,false,false,,POPULAR,2026-10-12,https://devin.ai/pricing,https://dailyaitools.ai/tools/windsurf/
+windsurf,Windsurf,Code,Teams,80,month,false,false,,+ $40/mo per full seat,2026-10-12,https://devin.ai/pricing,https://dailyaitools.ai/tools/windsurf/
+windsurf,Windsurf,Code,Max,200,month,false,false,,,2026-10-12,https://devin.ai/pricing,https://dailyaitools.ai/tools/windsurf/
+windsurf,Windsurf,Code,Enterprise,,month,false,false,,Let's talk,2026-10-12,https://devin.ai/pricing,https://dailyaitools.ai/tools/windsurf/
+wispr-flow,Wispr Flow,Audio,Free,0,month,true,false,,,2026-10-19,https://wisprflow.ai/pricing,https://dailyaitools.ai/tools/wispr-flow/
+wispr-flow,Wispr Flow,Audio,Pro,12,month,false,false,,,2026-10-19,https://wisprflow.ai/pricing,https://dailyaitools.ai/tools/wispr-flow/
+wispr-flow,Wispr Flow,Audio,Growth,18,month,false,false,,,2026-10-19,https://wisprflow.ai/pricing,https://dailyaitools.ai/tools/wispr-flow/
+wispr-flow,Wispr Flow,Audio,Enterprise,,month,false,false,,,2026-10-19,https://wisprflow.ai/pricing,https://dailyaitools.ai/tools/wispr-flow/
+wordtune,Wordtune,Writing,Basic,0,month,true,false,,,2026-10-31,https://www.wordtune.com/plans,https://dailyaitools.ai/tools/wordtune/
+wordtune,Wordtune,Writing,Advanced,6.99,month,false,false,,billed annually,2026-10-31,https://www.wordtune.com/plans,https://dailyaitools.ai/tools/wordtune/
+wordtune,Wordtune,Writing,Unlimited,9.99,month,false,false,,billed annually,2026-10-31,https://www.wordtune.com/plans,https://dailyaitools.ai/tools/wordtune/
+xtiles,xTiles,Productivity,Free,0,month,true,false,,,2026-10-06,https://xtiles.app/en/pricing/,https://dailyaitools.ai/tools/xtiles/
+xtiles,xTiles,Productivity,Plus,19,month,false,false,,billed annually,2026-10-06,https://xtiles.app/en/pricing/,https://dailyaitools.ai/tools/xtiles/
+xtiles,xTiles,Productivity,Pro,35,month,false,false,,billed annually,2026-10-06,https://xtiles.app/en/pricing/,https://dailyaitools.ai/tools/xtiles/
+xtiles,xTiles,Productivity,Enterprise,,month,false,false,,,2026-10-06,https://xtiles.app/en/pricing/,https://dailyaitools.ai/tools/xtiles/
+you-com,You.com,Search,Free,0,usage,true,false,100 queries/day,,2026-10-05,https://you.com/pricing,https://dailyaitools.ai/tools/you-com/
+you-com,You.com,Search,Contents API,1,usage,false,false,,,2026-10-05,https://you.com/pricing,https://dailyaitools.ai/tools/you-com/
+you-com,You.com,Search,Web Search API,5,usage,false,false,,,2026-10-05,https://you.com/pricing,https://dailyaitools.ai/tools/you-com/
+you-com,You.com,Search,Answer API,5,usage,false,false,,,2026-10-05,https://you.com/pricing,https://dailyaitools.ai/tools/you-com/
+you-com,You.com,Search,Answer API new,5,usage,false,false,,,2026-10-05,https://you.com/pricing,https://dailyaitools.ai/tools/you-com/
+you-com,You.com,Search,Research API Lite,12,usage,false,false,,per 1k calls,2026-10-05,https://you.com/pricing,https://dailyaitools.ai/tools/you-com/
+you-com,You.com,Search,Research API,12,usage,false,false,,,2026-10-05,https://you.com/pricing,https://dailyaitools.ai/tools/you-com/
+you-com,You.com,Search,Finance Research API Deep,110,usage,false,false,,per 1k calls,2026-10-05,https://you.com/pricing,https://dailyaitools.ai/tools/you-com/
+you-com,You.com,Search,Finance Research API,110,usage,false,false,,,2026-10-05,https://you.com/pricing,https://dailyaitools.ai/tools/you-com/
+zapier,Zapier,Automation,Free,0,month,true,false,,,2026-10-12,https://zapier.com/pricing,https://dailyaitools.ai/tools/zapier/
+zapier,Zapier,Automation,Professional,19.99,month,false,false,,,2026-10-12,https://zapier.com/pricing,https://dailyaitools.ai/tools/zapier/
+zapier,Zapier,Automation,Team,69,month,false,false,,,2026-10-12,https://zapier.com/pricing,https://dailyaitools.ai/tools/zapier/
+zapier,Zapier,Automation,Enterprise,,month,false,false,,,2026-10-12,https://zapier.com/pricing,https://dailyaitools.ai/tools/zapier/
