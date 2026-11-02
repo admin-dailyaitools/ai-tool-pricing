@@ -184,6 +184,10 @@ meetgeek,MeetGeek,Productivity,Basic,0,month,true,false,3 hours of transcription
 meetgeek,MeetGeek,Productivity,Pro,9.99,month,false,false,20 hours of transcription / mo,per user,2026-10-26,https://meetgeek.ai/pricing,https://dailyaitools.ai/tools/meetgeek/
 meetgeek,MeetGeek,Productivity,Business,17,month,false,false,Unlimited transcription,per user,2026-10-26,https://meetgeek.ai/pricing,https://dailyaitools.ai/tools/meetgeek/
 meetgeek,MeetGeek,Productivity,Enterprise,,month,false,false,Unlimited transcription,Contact sales,2026-10-26,https://meetgeek.ai/pricing,https://dailyaitools.ai/tools/meetgeek/
+mem,Mem,Productivity,Free,0,month,true,false,,,2026-11-02,https://get.mem.ai/pricing,https://dailyaitools.ai/tools/mem/
+mem,Mem,Productivity,Mem Plus,9,month,false,false,,,2026-11-02,https://get.mem.ai/pricing,https://dailyaitools.ai/tools/mem/
+mem,Mem,Productivity,Mem Pro,29,month,false,false,,,2026-11-02,https://get.mem.ai/pricing,https://dailyaitools.ai/tools/mem/
+mem,Mem,Productivity,Mem Pro 2×,49,month,false,false,,,2026-11-02,https://get.mem.ai/pricing,https://dailyaitools.ai/tools/mem/
 mindstudio,MindStudio,Agents,Free,0,month,true,false,"1,000 runs / month",,2026-10-26,https://www.mindstudio.ai/pricing,https://dailyaitools.ai/tools/mindstudio/
 mindstudio,MindStudio,Agents,Individual,20,month,false,false,"Unlimited agents, Unlimited runs / month",,2026-10-26,https://www.mindstudio.ai/pricing,https://dailyaitools.ai/tools/mindstudio/
 mindstudio,MindStudio,Agents,Business,,month,false,false,,,2026-10-26,https://www.mindstudio.ai/pricing,https://dailyaitools.ai/tools/mindstudio/

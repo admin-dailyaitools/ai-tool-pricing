@@ -1,11 +1,11 @@
 # AI tool pricing dataset
 
-Every pricing tier [dailyaitools](https://dailyaitools.ai/data/) tracks for 100 AI tools
-(392 tiers), plus the price moves it has recorded. Each figure was read off the
+Every pricing tier [dailyaitools](https://dailyaitools.ai/data/) tracks for 101 AI tools
+(396 tiers), plus the price moves it has recorded. Each figure was read off the
 vendor's own pricing page and confirmed against that text. Nothing is estimated, converted
 between currencies, or averaged.
 
-- `latest/`: the current files, as of 2026-11-01
+- `latest/`: the current files, as of 2026-11-02
 - `snapshots/YYYY-MM/`: one frozen copy per month
 
 | file | contents |
